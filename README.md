@@ -1,2 +1,2 @@
 # Machine-Learning-Project--Fifa
-Machine learning algorithm predicts player market value with FIFA data
+FIFA verileri ile oyuncu piyasa değeri tahmin eden makine öğrenimi algoritması
